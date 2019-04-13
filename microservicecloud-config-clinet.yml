@@ -25,4 +25,8 @@ spring:
 eureka:
     client:
         service-url:
+<<<<<<< HEAD
             defaultZone: http://eureka-test.com:7001/eureka/
+=======
+            defaultZone: http://eureka-test.com:7001/eureka/
+>>>>>>> 3b730f4d227f3dd03370874388baf14427dd01ec
